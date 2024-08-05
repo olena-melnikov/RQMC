@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/838065528.svg)](https://zenodo.org/doi/10.5281/zenodo.13227276)
+
 # Supplementary code for the manuscript: Randomized quasi-Monte Carlo methods for risk-averse stochastic optimization
 This repository contains supplementary code for the manuscript
 > Olena Melnikov and Johannes Milz, 2024,
