@@ -1,0 +1,1 @@
+Dict{Any, Any}("eN" => 0, "params" => Dict{String, Any}("M" => 100, "dim" => 250, "R" => 1.0, "type" => "normal", "beta" => 0.95), "ref" => 0.40385398143292467)
