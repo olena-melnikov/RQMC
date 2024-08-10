@@ -3,7 +3,8 @@
 # Supplementary code for the manuscript: Randomized quasi-Monte Carlo methods for risk-averse stochastic optimization
 This repository contains supplementary code for the manuscript
 > Olena Melnikov and Johannes Milz, 2024,
-> Randomized quasi-Monte Carlo methods for risk-averse stochastic optimization
+> Randomized quasi-Monte Carlo methods for risk-averse stochastic optimization,
+> https://doi.org/10.48550/arXiv.2408.02842
 
 ## Abstract
 We establish epigraphical and uniform laws of large numbers for sample-based approximations of law invariant risk functionals. Our sample-based approximation schemes include Monte Carlo (MC) and certain randomized quasi-Monte Carlo integration (RQMC) methods, such as scrambled net integration. Our results can be applied to the approximation of risk-averse stochastic programs and (simple) risk-averse stochastic variational inequalities. Our numerical simulations empirically demonstrate that RQMC approaches based on scrambled Sobol' sequences can yield smaller bias and root mean square error than MC methods for risk-averse optimization.
